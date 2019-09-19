@@ -1,0 +1,109 @@
+body{
+	margin:auto; 
+	width: 950px;
+}
+#img1{
+	width: 950px;
+  height: 400px;
+	border-radius: 20px;
+	border-color: gray 5px solid;
+	   box-shadow: inset 15px 15px 20px  ;
+
+
+}
+html{
+  margin-left: 50px;
+  margin-right: 50px;
+background: url(../img/fondo.png) ;
+background-position: center center;   
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+li:hover {
+  background: red;
+  border-radius: 20px
+ 
+}
+li
+{
+  display: inline;
+  margin-left: 200px;
+  margin-right: 100px;
+  box-shadow: 15px 15px 20px;
+
+}
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;}
+   nav ul  a {
+  display: block;
+  padding: 20px;
+  color: #fff;
+  
+}
+
+;
+
+
+}
+ header{  box-shadow: 0 0 10px 10px  gray;
+  border-radius: 20px;
+ 	
+
+
+ }
+ #navegador{
+ background-color: gray;
+ height: 60px;
+  list-style-type: none;
+   text-align: center;
+background: url(../img/barra.png) ;
+   border-radius: 20px;
+ box-shadow: inset 0 0 10px 10px  gray;
+  border-radius: 20px;   
+
+}
+#id{
+	padding-right:  30px;
+}
+#tabla1{
+	
+	
+     box-shadow: inset 15px 15px 20px red ;
+
+	border-radius: 20px;
+	border: black 1px solid;
+	margin-right: 140px;
+	background-color:pin;
+	width: 700px;
+	height: 500px;
+	margin-top: 200px;
+	margin-left: 170px;
+	background: url(../img/tele.jpg);
+	padding-bottom: 120px;
+  margin-bottom: 600px;
+
+}
+.img12{
+	width: 100px;
+}
+
+
+
+
+}
+nav{
+	box-shadow: 15px 15px 20px;
+
+}
+h1{
+  color: blue;
+}
+h2{
+  color: white;
+    font: oblique bold 180% cursive;
+
+}
